@@ -1,0 +1,15 @@
+/*
+Theme Name: new_knapsack
+Author: Sam
+Description: Simple and elegant WordPress E-Commerce theme
+Version: 1.0.0
+Text Domain: new_knapsack
+*/
+
+@import "compass";
+@import "compass/reset";
+
+// Here we import our partials
+@import "_partials/mixins";
+@import "_partials/variables";
+@import "_partials/typography";
